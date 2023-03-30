@@ -1,18 +1,18 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"Your Repository Name",
+    "id":"com.fax.your-repository-name",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
+        "email":"sadasdads@vrchat.com",
+        "name":"Some employee",
         "url":"https://hello.vrchat.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Put your description here",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"https://github.com/Faxmashine/YourRepositoryName",
+        "text":"View on my GitHub"
     },
     "bannerUrl":"banner.png",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://github.com/Faxmashine/YourRepositoryName/index.json",
     "githubRepos":[
         "Faxmashine/MyAmazingPackage"
     ]
