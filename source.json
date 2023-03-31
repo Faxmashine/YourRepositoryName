@@ -12,7 +12,7 @@
         "text":"View on my GitHub"
     },
     "bannerUrl":"banner.png",
-    "url":"https://github.com/Faxmashine/YourRepositoryName/source.json",
+    "url":"https://faxmashine.github.io/YourRepositoryName/index.json",
     "githubRepos":[
         "Faxmashine/MyAmazingPackage"
     ]
